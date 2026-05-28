@@ -27,15 +27,10 @@ The working subset used in the experiment contains:
 ```text
 ai-text-detection-stylometry-hc3/
 ├── ai_text_detection_hc3.ipynb
-├── ai_text_detection_experiments.py
-├── results_hc3/
-│   ├── model_comparison.csv
-│   ├── dataset_profile.csv
-│   ├── stylometric_ablation.png
-│   ├── model_comparison.png
-│   ├── best_confusion_matrix.png
-│   └── misclassified_examples.csv
-├── paper/
-│   ├── 2.3HD_updated_submission_acm.tex
-│   └── 2.3HD_updated_submission_acm.pdf
+├── model_comparison.csv
+├── dataset_profile.csv
+├── stylometric_ablation.png
+├── model_comparison.png
+├── best_confusion_matrix.png
+└── misclassified_examples.csv
 └── README.md
