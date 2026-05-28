@@ -1,0 +1,7 @@
+metric,value
+samples,2000.0
+human_samples,1000.0
+ai_samples,1000.0
+duplicates_removed,0.0
+mean_words,74.229
+median_words,54.0
